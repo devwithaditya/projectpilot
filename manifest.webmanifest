@@ -1,0 +1,19 @@
+{
+  "name": "ProjectPilot — Home Project Planner",
+  "short_name": "ProjectPilot",
+  "description": "Estimate home project materials, costs, and DIY decisions.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f5ef",
+  "theme_color": "#0d3b36",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
